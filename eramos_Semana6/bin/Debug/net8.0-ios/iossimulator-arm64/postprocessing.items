@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="eramos_Semana6.app/eramos_Semana6">
+      <BCSymbolMapName>eramos_Semana6.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>eramos_Semana6.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>eramos_Semana6.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
