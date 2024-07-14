@@ -1,9 +1,9 @@
 namespace eramos_Semana6;
 
-public class estudiante
+public class Estudiante
 {
-    public int codigo { get; set; }
-    public string nombres { get; set; } = string.Empty;
-    public string apellidos { get; set; } = string.Empty;
-    public int edad { get; set; }
+    public int Id { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public string Surname { get; set; } = string.Empty;
+    public int Age { get; set; }
 }

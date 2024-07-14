@@ -50,6 +50,7 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana6.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana6.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana6.app/Contents/MonoBundle/Newtonsoft.Json.dll
+/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana6.app/Contents/MonoBundle/Npgsql.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana6.app/Contents/MonoBundle/eramos_Semana6.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana6.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../eramos_Semana6.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

@@ -1,37 +1,37 @@
-using System.Collections.ObjectModel;
 using eramos_Semana6;
-using Newtonsoft.Json;
 
 namespace MauiApp1;
 
 public partial class vHome : ContentPage
 {
-	private const string url = "http://10.2.13.170/moviles/post.php";
-	private readonly HttpClient client = new HttpClient();
-	private ObservableCollection<estudiante> student = new ObservableCollection<estudiante>();
+	private readonly EstudianteService estudianteService;
 	public vHome()
 	{
-		InitializeComponent(); 
-		Obtener();
+		InitializeComponent();
+		estudianteService = new EstudianteService("Host=localhost;Username=postgres;Password=Uisrael;Database=uisrael");
+		LoadStudents();
 	}
-	public async void Obtener()
+	public async void LoadStudents()
 	{
-		try
+		var estudiantes = await estudianteService.GetEstudiantesAsync();
+		// Verificar la cantidad de estudiantes recuperados
+		Console.WriteLine($"Cantidad de estudiantes recuperados: {estudiantes.Count}");
+
+		foreach (var estudiante in estudiantes)
 		{
-			var content = await client.GetStringAsync(url);
-			List<estudiante> studentList = JsonConvert.DeserializeObject<List<estudiante>>(content)!;
-			student = new ObservableCollection<estudiante>(studentList);
-			listaEstudiantes.ItemsSource = student;
+			// Imprimir los detalles de cada estudiante
+			Console.WriteLine($"{estudiante.Name} {estudiante.Surname}");
 		}
-		catch (HttpRequestException httpEx)
-		{
-			// Manejar excepciones relacionadas con la solicitud HTTP
-			await DisplayAlert("Error", $"Request error: {httpEx.Message}", "OK");
-		}
-		catch (Exception ex)
-		{
-			// Manejar cualquier otra excepción
-			await DisplayAlert("Error", $"Unexpected error: {ex.Message}", "OK");
-		}
+
+		listaEstudiantes.ItemsSource = estudiantes;
+	}
+
+	public void btnAgregar_Clicked(object sender, EventArgs e)
+	{
+		Navigation.PushAsync(new vAgregar());
+	}
+	private void listaEstudiantes_ItemSelected(object sender, SelectedItemChangedEventArgs e){
+		var estudiante = (Estudiante)e.SelectedItem;
+		Navigation.PushAsync(new vUpdateDelete(estudiante.Id, estudiante.Name, estudiante.Surname, estudiante.Age));
 	}
 }

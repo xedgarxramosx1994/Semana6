@@ -311,6 +311,8 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_Semana6.pdb
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_Semana6.genruntimeconfig.cache
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/ref/eramos_Semana6.dll
+/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/eramos_Semana6.sourcelink.json
+/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/Npgsql.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
@@ -338,6 +340,7 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/mscorlib.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/netstandard.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Newtonsoft.Json.stamp
+/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Npgsql.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.AppContext.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Buffers.stamp
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/System.Collections.Concurrent.stamp

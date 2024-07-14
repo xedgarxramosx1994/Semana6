@@ -50,6 +50,7 @@
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../eramos_Semana6.app/Microsoft.Maui.Essentials.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../eramos_Semana6.app/Microsoft.Maui.Graphics.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../eramos_Semana6.app/Newtonsoft.Json.dll
+/Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../eramos_Semana6.app/Npgsql.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../eramos_Semana6.app/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../eramos_Semana6.app/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/xedgarxramosx/Documents/Proyectos MAUI/eramos_Semana6/eramos_Semana6/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../eramos_Semana6.app/Microsoft.VisualStudio.DesignTools.TapContract.dll

@@ -208,6 +208,13 @@
 			IsZJ91/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=
 			</data>
 		</dict>
+		<key>MonoBundle/Npgsql.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZSeMuiZzxe0AiASdiD+B42XEOOHO0Z0CQ5777rC37aw=
+			</data>
+		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1388,14 +1395,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5xZNtjH2Wk14pZ5246Bqpk5KwaZkiz++Wi03+Z/U37g=
+			1wjvapLoOwxj14zO2NGT+UDjY0HDgOb1OJ00LLrKo7k=
 			</data>
 		</dict>
 		<key>MonoBundle/eramos_Semana6.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E7dd7auOcg97G3K6eLBsd+VMwLQWXc5f28IF23z/rcs=
+			mcU1EXpZzLlDMliR5INRu45ogEsImdNIsWRRe81/5cc=
 			</data>
 		</dict>
 		<key>MonoBundle/es/Microsoft.Maui.Controls.resources.dll</key>
